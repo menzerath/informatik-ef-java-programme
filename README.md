@@ -19,7 +19,8 @@ Inhalt (nach Datum)
 * turtleGraphicsRekursion
 * Array
 * Zahlenliste
-* Hangman
+* Hangman (inkl. GUI)
+* Bruchrechner (inkl. GUI)
 
 Lizenz
 ------
