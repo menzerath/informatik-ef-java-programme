@@ -1,5 +1,5 @@
-#Projekte aus Informatik EF GK 2012/2013
-Das sind die ganzen Projekte aus dem Informatik-Unterricht (meist vollständig und funktionsfähig) von Janick und mir.
+#Informatik-Projekte EF GK 2012/2013
+Das sind die meisten Projekte aus dem Informatik-Unterricht (vollständig und funktionsfähig) von Janick und mir.
 Der Quelltext ist zur Vervollständigung der eigenen Projekte gedacht - nicht zum stumpfen kopieren.
 Neue Inhalte werden daher erst nach Beendigung eines Projekts hinzugefügt.
 
@@ -19,6 +19,7 @@ Neue Inhalte werden daher erst nach Beendigung eines Projekts hinzugefügt.
 * Zahlenliste
 * Hangman (inkl. GUI)
 * Bruchrechner (inkl. GUI)
+* MineSweeper (inkl. GUI)
 
 ##Lizenz
 [![Creative Commons License](http://i.creativecommons.org/l/by-sa/3.0/88x31.png)](http://creativecommons.org/licenses/by-sa/3.0/)  
