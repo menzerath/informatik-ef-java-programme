@@ -1,19 +1,15 @@
 #Informatik-Projekte EF GK 2012/2013
-Das sind die meisten Projekte aus dem Informatik-Unterricht (vollständig und funktionsfähig) von Janick und mir.
-Der Quelltext war im Schuljahr zur Vervollständigung der eigenen Projekte gedacht, jetzt kann jeder gerne Verbesserungen und Ergänzungen beisteuern.
+Das sind die meisten Projekte aus dem Informatik-Unterricht (vollständig und funktionsfähig) von Janick und mir.  
+Der Quelltext war im Schuljahr zur Vervollständigung der eigenen Projekte gedacht, jetzt kann jeder gerne Verbesserungen und Ergänzungen beisteuern.  
+Die Greenfoot-Projekte wurden aufgrund von möglichen urheberrechtlichen Problemen entfernt.
 
 ##Inhalt (nach Datum)
 * Präsentationen
 * Auto
 * Bankkonto
 * SimpleGUI
-* Schatzraeuber
-* Wombats
-* SimulationDelphin
-* turtleGraphics
 * MyString
 * Rekursion
-* turtleGraphicsRekursion
 * Array
 * Zahlenliste
 * Hangman (inkl. GUI)
