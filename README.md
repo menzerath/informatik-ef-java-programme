@@ -1,7 +1,6 @@
 #Informatik-Projekte EF GK 2012/2013
 Das sind die meisten Projekte aus dem Informatik-Unterricht (vollständig und funktionsfähig) von Janick und mir.
-Der Quelltext ist zur Vervollständigung der eigenen Projekte gedacht - nicht zum stumpfen kopieren.
-Neue Inhalte werden daher erst nach Beendigung eines Projekts hinzugefügt.
+Der Quelltext war im Schuljahr zur Vervollständigung der eigenen Projekte gedacht, jetzt kann jeder gerne Verbesserungen und Ergänzungen beisteuern.
 
 ##Inhalt (nach Datum)
 * Präsentationen
