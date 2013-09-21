@@ -18,6 +18,11 @@ public class GUI extends JFrame implements ActionListener {
     private MineSweeper sweepie;
     private int bombenMarkiert = 0;
     private int feldMarkiert = 0;
+	
+	public static void main(String[] args) {
+        GUI gui1 = new GUI();
+    }
+	
     public GUI() {
         try {
             UIManager.setLookAndFeel(UIManager.getSystemLookAndFeelClassName());
@@ -155,9 +160,5 @@ public class GUI extends JFrame implements ActionListener {
             }
         }
         return 0;
-    }
-    public static void main(String[] args)
-    {
-        GUI gui1 = new GUI();
     }
 }

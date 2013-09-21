@@ -25,9 +25,12 @@ public class GUI extends JFrame implements ActionListener {
     private JLabel labelWord;
     private JLabel labelFehlversuche;
     private JLabel labelImg;
+	
+	public static void main(String[] args) {
+        GUI gui1 = new GUI();
+    }
 
-    public GUI()
-    {
+    public GUI() {
         super("Hangman");
         createGUI();
     }
@@ -184,9 +187,5 @@ public class GUI extends JFrame implements ActionListener {
     
     private void setImage() {
         labelImg.setIcon(new ImageIcon("hangman" + torsten.gibFehler() + ".PNG"));
-    }
-    public static void main(String[] args)
-    {
-        GUI gui1 = new GUI();
     }
 }
