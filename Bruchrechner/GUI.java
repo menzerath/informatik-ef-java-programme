@@ -33,7 +33,7 @@ public class GUI extends JFrame implements ActionListener{
     private JButton btnKuerzen;
 
     public static void main(String[] args) {
-        GUI gui1=new GUI();
+        GUI gui1 = new GUI();
     }
 
     public GUI() {
