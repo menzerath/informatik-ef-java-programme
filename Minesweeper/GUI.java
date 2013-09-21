@@ -156,4 +156,8 @@ public class GUI extends JFrame implements ActionListener {
         }
         return 0;
     }
+    public static void main(String[] args)
+    {
+        GUI gui1 = new GUI();
+    }
 }
